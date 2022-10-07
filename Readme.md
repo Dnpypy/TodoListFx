@@ -1,2 +1,2 @@
 ![](src/main/resources/screenshots/TodoListFX.png)
-![](src/main/resources/screenshots/TodoListFX2.png)
+![](src/main/resources/screenshots/TodoListFX3.png)
